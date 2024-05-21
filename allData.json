@@ -1,0 +1,160 @@
+[
+    {
+        "img": "https://i.ibb.co/dmCw8VV/cox-bajar.png",
+        "title": "Amazing Cox Bajar",
+        "category": "tour market",
+        "location": "cox-bazar",
+        "star": 5,
+        "inclueded": ["Breakfast", "Hotel", "Meal"],
+        "duration": "2 Days",
+        "price": 350
+    },
+    {
+        "img": "https://i.ibb.co/X2jGXZ3/sylhet.jpg",
+        "title": "Natural Sylhet",
+        "category": "tour market",
+        "location": "sylhet",
+        "star": 5,
+        "inclueded": ["Breakfast", "Hotel", "Meal"],
+        "duration": "2 Days",
+        "price": 250
+    },
+    {
+        "img": "https://i.ibb.co/10bZwSx/ctg.jpg",
+        "title": "Historical Chittagong",
+        "category": "tour market",
+        "location": "chittagong",
+        "star": 5,
+        "inclueded": ["Breakfast", "Hotel", "Meal"],
+        "duration": "2 Days",
+        "price": 200
+    },
+    {
+        "img": "https://i.ibb.co/64FJMGn/kuakata.jpg",
+        "title": "Beautiful Kuakata",
+        "category": "Experience",
+        "location": "Kuakata",
+        "star": 5,
+        "inclueded": ["Breakfast","Boat", "Hotel", "Meal"],
+        "duration": "2 Days",
+        "price": 300
+    },
+    {
+        "img": "https://i.ibb.co/hyKCTZw/sundarban.jpg",
+        "title": "Sundarban",
+        "category": "Experience",
+        "location": "cox-bazar",
+        "star": 5,
+        "inclueded": ["Breakfast","Boat", "tea", "Hotel", "Meal"],
+        "duration": "2 Days",
+        "price": 500
+    },
+    {
+        "img": "https://i.ibb.co/SfjpCW6/sajek.jpg",
+        "title": "Cloudy Sajek",
+        "category": "Experience",
+        "location": "chittagong",
+        "star": 5,
+        "inclueded": ["Breakfast", "Hotel", "Meal"],
+        "duration": "2 Days",
+        "price": 200
+    },
+    {
+        "img": "https://i.ibb.co/yQ7pY24/saint-martin.jpg",
+        "title": "Saint Martin",
+        "category": "Experience",
+        "location": "chittagong",
+        "star": 5,
+        "inclueded": ["Breakfast", "Hotel", "Meal"],
+        "duration": "2 Days",
+        "price": 900
+    },
+    {
+        "img": "https://i.ibb.co/5hjMWq2/hotel-sera.jpg",
+        "title": "Hotel Regency",
+        "category": "stay",
+        "location": "Dhaka",
+        "star": 5,
+        "inclueded": ["Breakfast", "Hotel", "Meal"],
+        "facility":["2 Bed", "2 Dining", "1 Balcony"],
+        "duration": "2 Days",
+        "price": 900
+    },
+    {
+        "img": "https://i.ibb.co/WpTb5Bp/seraton.jpg",
+        "title": "Chittagong Hotel",
+        "category": "stay",
+        "location": "chittagong",
+        "star": 5,
+        "inclueded": ["Breakfast", "Hotel", "Meal"],
+        "facility":["2 Bed", "2 Dining", "1 Balcony"],
+        "duration": "2 Days",
+        "price": 600
+    },
+    {
+        "img": "https://i.ibb.co/Vqj5q5R/la-meridian.jpg",
+        "title": "Sylhet Hotel",
+        "category": "stay",
+        "location": "sylhet",
+        "star": 5,
+        "inclueded": ["Breakfast", "Hotel", "Meal"],
+        "facility":["2 Bed", "2 Dining", "1 Balcony"],
+        "duration": "2 Days",
+        "price": 900
+    },
+    {
+        "img": "https://i.ibb.co/fvPYdK7/women-top-1.jpg",
+        "title": "Womens Top",
+        "category": "products",
+        "location": "",
+        "star": 5,
+        "inclueded": "",
+        "facility": "",
+        "duration": "",
+        "price": 260
+    },   
+    {
+        "img": "https://i.ibb.co/qpKkBr8/women-top-2.jpg",
+        "title": "Womens Top",
+        "category": "products",
+        "location": "",
+        "star": 5,
+        "inclueded": "",
+        "facility": "",
+        "duration": "",
+        "price": 280
+    },   
+    {
+        "img": "https://i.ibb.co/hY0hxw1/women-top-3.jpg",
+        "title": "Womens Top",
+        "category": "products",
+        "location": "",
+        "star": 5,
+        "inclueded": "",
+        "facility": "",
+        "duration": "",
+        "price": 280
+    },   
+    {
+        "img": "https://i.ibb.co/bPQ25mn/women-kurti-1.jpg",
+        "title": "Women Kurti",
+        "category": "products",
+        "location": "",
+        "star": 5,
+        "inclueded": "",
+        "facility": "",
+        "duration": "",
+        "price": 480
+    },   
+    {
+        "img": "https://i.ibb.co/McjxF2j/women-kurti-2.jpg",
+        "title": "Women Kurti",
+        "category": "products",
+        "location": "",
+        "star": 5,
+        "inclueded": "",
+        "facility": "",
+        "duration": "",
+        "price": 280
+    }
+]
