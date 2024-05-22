@@ -7,7 +7,8 @@
         "star": 5,
         "inclueded": ["Breakfast", "Hotel", "Meal"],
         "duration": "2 Days",
-        "price": 350
+        "price": 350,
+        "details": "Experience the breathtaking beauty of Cox's Bazar, where the world's longest natural sea beach meets stunning sunsets and vibrant local culture. Immerse yourself in this enchanting paradise for beach lovers, offering endless miles of golden sands and crystal-clear waters"
     },
     {
         "img": "https://i.ibb.co/X2jGXZ3/sylhet.jpg",
@@ -17,7 +18,8 @@
         "star": 5,
         "inclueded": ["Breakfast", "Hotel", "Meal"],
         "duration": "2 Days",
-        "price": 250
+        "price": 250,
+        "details": "Discover the captivating charm of Sylhet, a region renowned for its lush tea gardens, rolling hills, and serene natural beauty. Wander through verdant landscapes where emerald tea plantations stretch as far as the eye can see, and explore the enchanting forests and waterfalls that make Sylhet a haven for nature lovers"
     },
     {
         "img": "https://i.ibb.co/10bZwSx/ctg.jpg",
@@ -27,7 +29,8 @@
         "star": 5,
         "inclueded": ["Breakfast", "Hotel", "Meal"],
         "duration": "2 Days",
-        "price": 200
+        "price": 200,
+        "details": "Chittagong beckons with its vibrant markets and rich maritime history, offering a blend of culture and commerce against a backdrop of scenic hills and coastal charm"
     },
     {
         "img": "https://i.ibb.co/64FJMGn/kuakata.jpg",
@@ -37,7 +40,8 @@
         "star": 5,
         "inclueded": ["Breakfast","Boat", "Hotel", "Meal"],
         "duration": "2 Days",
-        "price": 300
+        "price": 300,
+        "details": "Discover the untouched beauty of Kuakata, where the golden sunsets paint the sky over pristine beaches, creating a mesmerizing spectacle. With its serene ambiance and panoramic views of the Bay of Bengal, Kuakata is a tranquil retreat for those seeking solace amidst nature's splendor"
     },
     {
         "img": "https://i.ibb.co/hyKCTZw/sundarban.jpg",
@@ -47,7 +51,8 @@
         "star": 5,
         "inclueded": ["Breakfast","Boat", "tea", "Hotel", "Meal"],
         "duration": "2 Days",
-        "price": 500
+        "price": 500,
+        "details": "Enter the mystical realm of the Sundarbans, where dense mangrove forests echo with the calls of exotic wildlife and the whisper of the river's tides. Explore this UNESCO World Heritage Site, where the Royal Bengal Tiger roams freely amidst an enchanting labyrinth of waterways, offering an unforgettable adventure in the heart of nature's grandeur"
     },
     {
         "img": "https://i.ibb.co/SfjpCW6/sajek.jpg",
@@ -57,7 +62,8 @@
         "star": 5,
         "inclueded": ["Breakfast", "Hotel", "Meal"],
         "duration": "2 Days",
-        "price": 200
+        "price": 200,
+        "details": "Embark on a journey to Sajek Valley, where the rolling hills of the Chittagong Hill Tracts unveil a breathtaking panorama of lush greenery and pristine landscapes. Immerse yourself in the tranquility of this hidden gem, where the crisp mountain air and picturesque sunsets create a serene retreat, perfect for rejuvenation and exploration"
     },
     {
         "img": "https://i.ibb.co/yQ7pY24/saint-martin.jpg",
@@ -67,7 +73,8 @@
         "star": 5,
         "inclueded": ["Breakfast", "Hotel", "Meal"],
         "duration": "2 Days",
-        "price": 900
+        "price": 900,
+        "details": "Saint Martin's Island beckons with its pristine beaches and azure waters, offering a tranquil escape amidst the Bay of Bengal's beauty. Explore its coral reefs, lounge on its sandy shores, and witness spectacular sunsets painting the sky in hues of gold, promising an unforgettable island getaway"
     },
     {
         "img": "https://i.ibb.co/5hjMWq2/hotel-sera.jpg",
@@ -78,7 +85,8 @@
         "inclueded": ["Breakfast", "Hotel", "Meal"],
         "facility":["2 Bed", "2 Dining", "1 Balcony"],
         "duration": "2 Days",
-        "price": 900
+        "price": 900,
+        "details": "Regency Hotel: Where luxury meets comfort in the heart of the city, offering impeccable service and modern amenities for an unforgettable stay experience."
     },
     {
         "img": "https://i.ibb.co/WpTb5Bp/seraton.jpg",
@@ -89,7 +97,8 @@
         "inclueded": ["Breakfast", "Hotel", "Meal"],
         "facility":["2 Bed", "2 Dining", "1 Balcony"],
         "duration": "2 Days",
-        "price": 600
+        "price": 600,
+        "details": "Chittagong Hotel offers a perfect blend of elegance and convenience, providing travelers with a comfortable haven amidst the city's bustling energy. With its central location, modern facilities, and warm hospitality, Chittagong Hotel promises a memorable stay for both business and leisure travelers alike"
     },
     {
         "img": "https://i.ibb.co/Vqj5q5R/la-meridian.jpg",
@@ -100,7 +109,8 @@
         "inclueded": ["Breakfast", "Hotel", "Meal"],
         "facility":["2 Bed", "2 Dining", "1 Balcony"],
         "duration": "2 Days",
-        "price": 900
+        "price": 900,
+        "details": " A tranquil oasis nestled amidst the lush greenery and rolling hills of Sylhet, offering unparalleled comfort and hospitality for a memorable stay in this enchanting region"
     },
     {
         "img": "https://i.ibb.co/fvPYdK7/women-top-1.jpg",
@@ -111,7 +121,8 @@
         "inclueded": "",
         "facility": "",
         "duration": "",
-        "price": 260
+        "price": 260,
+        "details": " featuring trendy designs and premium fabrics for effortless style and comfort, perfect for any occasion."
     },   
     {
         "img": "https://i.ibb.co/qpKkBr8/women-top-2.jpg",
@@ -122,7 +133,8 @@
         "inclueded": "",
         "facility": "",
         "duration": "",
-        "price": 280
+        "price": 280,
+        "details": " featuring trendy designs and premium fabrics for effortless style and comfort, perfect for any occasion"
     },   
     {
         "img": "https://i.ibb.co/hY0hxw1/women-top-3.jpg",
@@ -133,7 +145,8 @@
         "inclueded": "",
         "facility": "",
         "duration": "",
-        "price": 280
+        "price": 280,
+        "details": " featuring trendy designs and premium fabrics for effortless style and comfort, perfect for any occasion"
     },   
     {
         "img": "https://i.ibb.co/bPQ25mn/women-kurti-1.jpg",
@@ -144,7 +157,8 @@
         "inclueded": "",
         "facility": "",
         "duration": "",
-        "price": 480
+        "price": 480,
+        "details": " featuring trendy designs and premium fabrics for effortless style and comfort, perfect for any occasion"
     },   
     {
         "img": "https://i.ibb.co/McjxF2j/women-kurti-2.jpg",
@@ -155,6 +169,7 @@
         "inclueded": "",
         "facility": "",
         "duration": "",
-        "price": 280
+        "price": 280,
+        "details": " featuring trendy designs and premium fabrics for effortless style and comfort, perfect for any occasion"
     }
 ]

@@ -1,6 +1,6 @@
 const express = require('express');
 const app = express();
-const port = process.env.PORT || 3000;
+const port = process.env.PORT || 5000;
 const cors = require("cors");
 require('dotenv').config();
 const { MongoClient, ServerApiVersion, ObjectId } = require('mongodb');
@@ -36,6 +36,14 @@ async function run() {
         res.send(getAllData);
     })
 
+    // get a single Data from api 
+    app.get('/api/v1/getalldata/:id', async(req, res) => {
+      const id = req.params.id;
+      const query = {_id: new ObjectId(id)};
+      const result = await allData.findOne(query);
+      res.send(result);
+    })
+
     // get all user from database
     app.get('/api/v1/dashboard/getalluser', async(req, res) => {
         const getAllData = await allUsers.find().toArray();
@@ -56,7 +64,15 @@ async function run() {
         const filter = {_id: new ObjectId(id)};
         const updatedItem = {
             $set: {
-
+              title: item.title,
+              category: item.category,
+              star: item.star,
+              included: item.included,
+              duration: item.duration,
+              facility: item.facility,
+              location: item.location,
+              price: item.price,
+              details: item.details,
             }
         }
         const result = await allData.updateOne(filter, updatedItem);
