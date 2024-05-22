@@ -84,6 +84,8 @@ async function run() {
         const id = req.params.id;
         const query = {_id: new ObjectId(id)}
         const deletedData = await allData.deleteOne(query)
+        res.send(deletedData);
+        console.log(deletedData);
     })
 
     // Send a ping to confirm a successful connection
