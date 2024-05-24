@@ -8,6 +8,12 @@ const bodyParser = require('body-parser');
 
 // built in middlewares
 app.use(cors());
+app.use(
+  cors({
+    origin: ["*"],
+    credentials: true,
+  })
+);
 app.use(express.json());
 app.use(bodyParser.json());
 const uri = `mongodb+srv://${process.env.DB_User}:${process.env.DB_Password}@cluster0.f3vnw1n.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0`;
